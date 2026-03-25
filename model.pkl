@@ -1,2 +1,0 @@
-import joblib
-joblib.dump(knn_model, "model.pkl")
